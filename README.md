@@ -29,4 +29,4 @@ We mainly focused on the **frontend development**, creating an intuitive and int
 ## 🚀 How to Run?  
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/Pratyush-Basu/Hospital Management System.git
+git clone https://github.com/Pratyush-Basu/Hospital-Management-System.git
